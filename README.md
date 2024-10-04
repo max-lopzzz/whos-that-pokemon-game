@@ -34,7 +34,7 @@ pip install Pillow
 ### Clone the repository
 Clone the repository to your local machine using:
 ```
-git clone https://github.com/yourusername/whos-that-pokemon-game.git
+git clone https://github.com/max-lopzzz/whos-that-pokemon-game.git
 ```
 ### Run the game
 Navigate to the repository folder and run the game:
