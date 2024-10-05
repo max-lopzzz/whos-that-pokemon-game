@@ -75,6 +75,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Pokémon images and data used in this game are the property of The Pokémon Company and Nintendo. This is a fan-made project for educational and entertainment purposes.
 - Inspired by the original "Who's That Pokémon?" from the Pokémon anime series.
 
+## Credits
+- **CSV Data:** `pokedex.csv` and `images` were sourced from [Kaggle: Pokemon with stats and image](https://www.kaggle.com/datasets/christofferms/pokemon-with-stats-and-image).
+
 ## Contact
 Feel free to contact me via GitHub or open an issue if you encounter any problems or have questions.
 
